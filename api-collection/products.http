@@ -1,0 +1,7 @@
+@baseUrl = http://localhost:3000/api
+@name = products
+
+###
+
+# @name getProducts
+GET {{baseUrl}}/{{name}}

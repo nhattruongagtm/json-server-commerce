@@ -1,0 +1,7 @@
+@baseUrl = http://localhost:3000/api
+@name = categories
+
+###
+
+# @name getCategories
+GET {{baseUrl}}/{{name}}?_page=1&_limit=3
