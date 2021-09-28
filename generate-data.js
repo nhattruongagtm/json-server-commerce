@@ -60,7 +60,7 @@ const randomProducts = (n, categories) =>{
                     faker.commerce.color(),
                     faker.commerce.color()
                 ],
-                categoryID: categories.categoryID,
+                categoryID: category.categoryID,
                 createdAt: Date.now(),
                 updatedAt: Date.now()
             }
