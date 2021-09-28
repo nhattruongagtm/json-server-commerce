@@ -54,6 +54,12 @@ const randomProducts = (n, categories) =>{
                     faker.commerce.productDescription(),
                     faker.commerce.productDescription(),
                 ],
+                color:[
+                    faker.commerce.color(),
+                    faker.commerce.color(),
+                    faker.commerce.color(),
+                    faker.commerce.color()
+                ],
                 categoryID: categories.categoryID,
                 createdAt: Date.now(),
                 updatedAt: Date.now()
@@ -66,7 +72,6 @@ const randomProducts = (n, categories) =>{
 }
 
 
-
 (()=>{
 
     const categories = randomCategories(15);
@@ -76,8 +81,6 @@ const randomProducts = (n, categories) =>{
         categories: categories,
         products: products,
         users: [],
-        prices: [],
-        pricesSale: [],
         carts: [],
 
     }
