@@ -94,23 +94,23 @@
   "products": [
     {
       "productID": "eba3d677-cdfc-4d0e-b630-678793e43c1e",
-      "name": "Sleek Frozen Fish",
-      "price": 587,
-      "priceSale": 995,
+      "name": "Giày Thể Thao Nam Adidas Ultraboost 21 Primeblue",
+      "price": 4000000,
+      "priceSale": 5000000,
       "rate": 4,
       "images": [
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480"
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/FX7729-1_1024x1024@2x.jpg?v=1611109671",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/FX7729-2_1024x1024@2x.jpg?v=1611109670",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/FX7729-3_1024x1024@2x.jpg?v=1611109670",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/FX7729-4_1024x1024@2x.jpg?v=1611109671"
       ],
-      "sizes": [4, 4, 1, 0],
+      "sizes": ["UK6", "UK6.5", "UK7", "UK7.5"],
       "desc": [
-        "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-        "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-        "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+        "ULTRABOOST 21",
+        "ĐÔI GIÀY VỚI KHẢ NĂNG HOÀN TRẢ NĂNG LƯỢNG ĐÁNG KINH NGẠC.",
+        "Định nghĩa của tốt nhất không bao giờ nghỉ ngơi. Khi chúng tôi ra mắt đôi adidas Ultraboost đầu tiên, chúng là đôi giày chạy bộ tốt nhất mà chúng tôi từng làm. Với mỗi bản cập nhật mới, chúng tôi đã nâng cao tiêu chuẩn. Và bây giờ bạn đã có được chiếc đệm với khả năng hoàn trả năng lượng mà bạn hằng mong muốn. Phiên bản này có thêm 6% viên nang Boost và phần upper adidas Primeknit. Nó cung cấp cho bạn thêm năng lượng trong mỗi bước chân. Đẩy năng lượng tuyến tính, cung cấp hỗ trợ bàn chân trước và chân giữa."
       ],
-      "color": ["magenta", "red", "cyan", "mint green"],
+      "color": ["CREW", "BLUE/FTWR", "WHITE/CREW", "NAVY"],
       "saleNumber": 71,
       "gender": 2,
       "categoryID": "9db6485d-60d2-44ee-967a-63cae855fe9d",
