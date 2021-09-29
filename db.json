@@ -95,8 +95,8 @@
     {
       "productID": "eba3d677-cdfc-4d0e-b630-678793e43c1e",
       "name": "Giày Thể Thao Nam Adidas Ultraboost 21 Primeblue",
-      "price": 4000000,
-      "priceSale": 5000000,
+      "price": 5000000,
+      "priceSale": 4000000,
       "rate": 4,
       "images": [
         "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/FX7729-1_1024x1024@2x.jpg?v=1611109671",
@@ -119,26 +119,26 @@
     },
     {
       "productID": "d4d68784-31af-4cb8-8852-a48717eee489",
-      "name": "Awesome Concrete Soap",
-      "price": 153,
-      "priceSale": 593,
+      "name": "Giày Thời Trang Nam Nike Fw Nike Reposto",
+      "price": 2349000,
+      "priceSale": 0,
       "rate": 2,
       "images": [
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480"
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CZ5631-012-1_1024x1024@2x.jpg?v=1626967344",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CZ5631-012-2_1024x1024@2x.jpg?v=1626967343",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CZ5631-012-3_1024x1024@2x.jpg?v=1626967344",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CZ5631-012-4_1024x1024@2x.jpg?v=1626967343"
       ],
-      "sizes": [8, 6, 2, 3],
+      "sizes": ["UK7.5", "UK8", "UK8.5", "UK9.5"],
       "desc": [
-        "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-        "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
-        "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+        "GIÀY THỜI TRANG NAM NIKE FW NIKE REPOSTO",
+        "Nike Reposto tôn vinh những đôi giày mang đậm nét di sản của Nike.",
+        "Đế waffle được cải tiến, lấy cảm hứng ban đầu từ phiên bản waffle iron, và tem "Nike 72" đi vào lịch sử của Nike những năm 1970. Với sự hỗ trợ, ổn định và đệm êm ái, đôi giày dáng thấp này đã sẵn sàng cho mọi thứ. Và tất nhiên, dành cả cho giờ giải lao."
       ],
-      "color": ["yellow", "tan", "turquoise", "blue"],
+      "color": ["BLACK/WHITE"],
       "saleNumber": 48,
       "gender": 2,
-      "categoryID": "9db6485d-60d2-44ee-967a-63cae855fe9d",
+      "categoryID": "c9be3381-0e6f-4408-b0e8-b2946d5b49d3",
       "createdAt": 1632896313178,
       "updatedAt": 1632896313178
     },
