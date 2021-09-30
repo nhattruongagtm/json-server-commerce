@@ -11,7 +11,7 @@ const randomCategories = (n) =>{
     Array.from(new Array(n)).forEach(()=>{
 
         const category = {
-            categoryID: faker.random.uuid(),
+            id: faker.random.uuid(),
             categoryName: faker.commerce.department(),
             createdAt: Date.now(),
             updatedAt: Date.now()
@@ -32,7 +32,7 @@ const randomProducts = (n, categories) =>{
         Array.from(new Array(n)).forEach(()=>{
 
             const product = {
-                productID: faker.random.uuid(),
+                id: faker.random.uuid(),
                 name: faker.commerce.productName(),
                 price: Number.parseInt(faker.commerce.price()),
                 priceSale: Number.parseInt(faker.commerce.price()),
@@ -62,7 +62,7 @@ const randomProducts = (n, categories) =>{
                 ],
                 saleNumber: faker.random.number(200),
                 gender: faker.random.number(2),
-                categoryID: category.categoryID,
+                categoryID: category.id,
                 createdAt: Date.now(),
                 updatedAt: Date.now()
             }
