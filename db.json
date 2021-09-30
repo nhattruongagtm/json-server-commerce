@@ -2,96 +2,146 @@
   "categories": [
     {
       "id": "97f8c1ac-54c0-4408-9b14-52af5f6a7d42",
-      "categoryName": "Movies",
+      "categoryName": "Adidas",
       "createdAt": 1632983937499,
       "updatedAt": 1632983937499
     },
     {
       "id": "4c302e18-6083-4b21-a725-6cc23feb85a0",
-      "categoryName": "Music",
+      "categoryName": "Nike",
       "createdAt": 1632983937500,
       "updatedAt": 1632983937500
     },
     {
       "id": "7ebd2f28-baae-4cb6-b316-040f287db3d4",
-      "categoryName": "Garden",
+      "categoryName": "Puma",
       "createdAt": 1632983937500,
       "updatedAt": 1632983937500
     },
     {
       "id": "4274baf4-627d-48bc-ade9-d8bf6046b6a7",
-      "categoryName": "Garden",
+      "categoryName": "Bitis",
       "createdAt": 1632983937501,
       "updatedAt": 1632983937501
     },
     {
       "id": "f13fc914-3934-40b2-bdbb-e11b222b75c2",
-      "categoryName": "Clothing",
+      "categoryName": "Mizuno",
       "createdAt": 1632983937502,
       "updatedAt": 1632983937502
     },
     {
       "id": "82f5b0e7-1e57-4328-b931-d81389a82b94",
-      "categoryName": "Games",
+      "categoryName": "Teva",
       "createdAt": 1632983937502,
       "updatedAt": 1632983937502
     },
     {
       "id": "565c92fa-2214-4b2b-9599-f4b11e5710db",
-      "categoryName": "Beauty",
+      "categoryName": "Cross",
       "createdAt": 1632983937503,
       "updatedAt": 1632983937503
     },
     {
       "id": "cb1a6ea7-fec9-4eb5-a18e-6ef31eea734b",
-      "categoryName": "Industrial",
+      "categoryName": "Fila",
       "createdAt": 1632983937504,
       "updatedAt": 1632983937504
     },
     {
       "id": "1c8d0ed6-2dd0-49cc-bcc9-6c845c2d987a",
-      "categoryName": "Clothing",
+      "categoryName": "Hoka",
       "createdAt": 1632983937504,
       "updatedAt": 1632983937504
     },
     {
       "id": "fba50ea3-42ae-4753-8444-08a23eac7b03",
-      "categoryName": "Tools",
+      "categoryName": "Under armour",
       "createdAt": 1632983937505,
       "updatedAt": 1632983937505
     },
     {
       "id": "072bb690-7256-483c-93e0-69a2a3045529",
-      "categoryName": "Garden",
+      "categoryName": "Skechers",
       "createdAt": 1632983937506,
       "updatedAt": 1632983937506
     },
     {
       "id": "f9477871-aa87-48b3-ad62-ca60a94bcc9a",
-      "categoryName": "Grocery",
+      "categoryName": "Asics",
       "createdAt": 1632983937506,
       "updatedAt": 1632983937506
     },
     {
       "id": "40275dbf-f3e3-40bf-8f70-a3c924f8ae9d",
-      "categoryName": "Garden",
+      "categoryName": "Elesses",
       "createdAt": 1632983937507,
       "updatedAt": 1632983937507
     },
     {
       "id": "ef20eb30-0656-41dd-814b-d07a7f1f3800",
-      "categoryName": "Electronics",
+      "categoryName": "New balance",
       "createdAt": 1632983937507,
       "updatedAt": 1632983937507
     },
     {
       "id": "16b8306b-5cb7-4bfe-ba6f-378cd8427eb1",
-      "categoryName": "Home",
+      "categoryName": "NY",
       "createdAt": 1632983937508,
       "updatedAt": 1632983937508
     }
   ],
   "products": [
+    {
+      "id": "eba3d677-cdfc-4d0e-b630-678793e43c1e",
+      "name": "Giày Thể Thao Nam Adidas Ultraboost 21 Primeblue",
+      "price": 5000000,
+      "priceSale": 4000000,
+      "rate": 4,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/FX7729-1_1024x1024@2x.jpg?v=1611109671",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/FX7729-2_1024x1024@2x.jpg?v=1611109670",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/FX7729-3_1024x1024@2x.jpg?v=1611109670",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/FX7729-4_1024x1024@2x.jpg?v=1611109671"
+      ],
+      "sizes": ["UK6", "UK6.5", "UK7", "UK7.5"],
+      "desc": [
+        "ULTRABOOST 21",
+        "ĐÔI GIÀY VỚI KHẢ NĂNG HOÀN TRẢ NĂNG LƯỢNG ĐÁNG KINH NGẠC.",
+        "Định nghĩa của tốt nhất không bao giờ nghỉ ngơi. Khi chúng tôi ra mắt đôi adidas Ultraboost đầu tiên, chúng là đôi giày chạy bộ tốt nhất mà chúng tôi từng làm. Với mỗi bản cập nhật mới, chúng tôi đã nâng cao tiêu chuẩn. Và bây giờ bạn đã có được chiếc đệm với khả năng hoàn trả năng lượng mà bạn hằng mong muốn. Phiên bản này có thêm 6% viên nang Boost và phần upper adidas Primeknit. Nó cung cấp cho bạn thêm năng lượng trong mỗi bước chân. Đẩy năng lượng tuyến tính, cung cấp hỗ trợ bàn chân trước và chân giữa."
+      ],
+      "color": ["CREW", "BLUE/FTWR", "WHITE/CREW", "NAVY"],
+      "saleNumber": 71,
+      "gender": 2,
+      "categoryID": "9db6485d-60d2-44ee-967a-63cae855fe9d",
+      "createdAt": 1632896313172,
+      "updatedAt": 1632896313172
+    },
+    {
+      "id": "d4d68784-31af-4cb8-8852-a48717eee489",
+      "name": "Giày Thời Trang Nam Nike Fw Nike Reposto",
+      "price": 2349000,
+      "priceSale": 0,
+      "rate": 2,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CZ5631-012-1_1024x1024@2x.jpg?v=1626967344",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CZ5631-012-2_1024x1024@2x.jpg?v=1626967343",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CZ5631-012-3_1024x1024@2x.jpg?v=1626967344",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CZ5631-012-4_1024x1024@2x.jpg?v=1626967343"
+      ],
+      "sizes": ["UK7.5", "UK8", "UK8.5", "UK9.5"],
+      "desc": [
+        "GIÀY THỜI TRANG NAM NIKE FW NIKE REPOSTO",
+        "Nike Reposto tôn vinh những đôi giày mang đậm nét di sản của Nike.",
+        "Đế waffle được cải tiến, lấy cảm hứng ban đầu từ phiên bản waffle iron, và tem 'Nike 72' đi vào lịch sử của Nike những năm 1970. Với sự hỗ trợ, ổn định và đệm êm ái, đôi giày dáng thấp này đã sẵn sàng cho mọi thứ. Và tất nhiên, dành cả cho giờ giải lao."
+      ],
+      "color": ["BLACK/WHITE"],
+      "saleNumber": 48,
+      "gender": 2,
+      "categoryID": "c9be3381-0e6f-4408-b0e8-b2946d5b49d3",
+      "createdAt": 1632896313178,
+      "updatedAt": 1632896313178
+    },
     {
       "id": "f5de2400-b08e-4863-af7f-59cfbbfa25d8",
       "name": "Fantastic Rubber Ball",
