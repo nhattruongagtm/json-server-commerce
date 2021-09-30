@@ -113,7 +113,7 @@
       "color": ["CREW", "BLUE/FTWR", "WHITE/CREW", "NAVY"],
       "saleNumber": 71,
       "gender": 2,
-      "categoryID": "9db6485d-60d2-44ee-967a-63cae855fe9d",
+      "categoryID": "97f8c1ac-54c0-4408-9b14-52af5f6a7d42",
       "createdAt": 1632896313172,
       "updatedAt": 1632896313172
     },
@@ -138,7 +138,7 @@
       "color": ["BLACK/WHITE"],
       "saleNumber": 48,
       "gender": 2,
-      "categoryID": "c9be3381-0e6f-4408-b0e8-b2946d5b49d3",
+      "categoryID": "4c302e18-6083-4b21-a725-6cc23feb85a0",
       "createdAt": 1632896313178,
       "updatedAt": 1632896313178
     },
