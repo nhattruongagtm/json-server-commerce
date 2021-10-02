@@ -144,125 +144,125 @@
     },
     {
       "id": "f5de2400-b08e-4863-af7f-59cfbbfa25d8",
-      "name": "Fantastic Rubber Ball",
-      "price": 956,
-      "priceSale": 985,
-      "rate": 1,
+      "name": "Giày Chạy Bộ Nữ Nike Fw React Infinity Run Fk 2",
+      "price": 4699000,
+      "priceSale": 0,
+      "rate": 4,
       "images": [
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480"
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CT2423-004-1_1024x1024@2x.jpg?v=1627207939",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CT2423-004-2_1024x1024@2x.jpg?v=1627207940",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CT2423-004-3_1024x1024@2x.jpg?v=1627207939",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CT2423-004-4_1024x1024@2x.jpg?v=1627207940http://placeimg.com/640/480"
       ],
-      "sizes": [9, 7, 0, 6],
+      "sizes": ["US7.5", "US8", "US5.5", "US6","US6.5"],
       "desc": [
-        "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-        "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-        "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+        "GIÀY CHẠY BỘ NỮ NIKE FW REACT INFINITY RUN FK 2",
+        "ĐƯỢC THIẾT KẾ DÀNH CHO NGƯỜI ĐAM MÊ CHẠY BỘ.",
+        "Nike React Infinity Run Flyknit 2 tiếp tục hỗ trợ bạn trong việc chạy bộ. Phần upper được làm mới sử dụng công nghệ Flywire kết hợp với Flyknit để hỗ trợ và thoáng khí. Chiều cao đệm được thiết kế cao hơn mang lại khả năng đàn hồi mềm mại và cảm nhận sự thoải mái lâu dài. Đây vẫn là một trong những đôi giày được thử nghiệm nhiều nhất của Nike, được thiết kế để giúp bạn cảm nhận được tiềm năng khi chân của bạn tiếp bước trên chặng đường chạy."
       ],
-      "color": ["white", "silver", "silver", "magenta"],
+      "color": ["PURE", "PLATI"],
       "saleNumber": 197,
-      "gender": 2,
+      "gender": 1,
       "categoryID": "97f8c1ac-54c0-4408-9b14-52af5f6a7d42",
       "createdAt": 1632983937514,
       "updatedAt": 1632983937514
     },
     {
       "id": "36b13618-8ebd-4df1-816a-d5721812c47c",
-      "name": "Gorgeous Steel Sausages",
-      "price": 115,
-      "priceSale": 840,
+      "name": "Giày Chạy Bộ Nữ Nike Fw Wmns Nike Downshifter 11",
+      "price": 1909000,
+      "priceSale": 0,
       "rate": 3,
       "images": [
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480"
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CW3413-101-1_1024x1024@2x.jpg?v=1626966883",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CW3413-101-2_1024x1024@2x.jpg?v=1626966882",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CW3413-101-3_1024x1024@2x.jpg?v=1626966882",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CW3413-101-4_1024x1024@2x.jpg?v=1626966882"
       ],
-      "sizes": [4, 5, 8, 2],
+      "sizes": ["US6", "US6.5", "US7"],
       "desc": [
-        "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-        "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-        "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support"
+        "GIÀY CHẠY BỘ NỮ NIKE FW WMNS NIKE DOWNSHIFTER 11",
+        "Tăng tốc độ chạy của bạn với Giày chạy bộ Nike Downshifter 11. Những đôi giày chạy bộ siêu nhẹ và thoáng khí này là sự kết hợp hoàn hảo cho quá trình tập luyện của bạn với thiết kế kiểu dáng đẹp và dễ mặc, đế giữa bằng đệm và đế ngoài hỗ trợ lực kéo bền bỉ sẽ giữ cho đôi chân của bạn luôn vững chắc trên mặt đất và đầu dẫn trong mọi cuộc chơi.",
+        "Đế ngoài bằng cao su cung cấp lực kéo khi bạn cần."
       ],
-      "color": ["purple", "turquoise", "gold", "maroon"],
+      "color": ["WHITE/GREE"],
       "saleNumber": 71,
-      "gender": 0,
+      "gender": 2,
       "categoryID": "97f8c1ac-54c0-4408-9b14-52af5f6a7d42",
       "createdAt": 1632983937517,
       "updatedAt": 1632983937517
     },
     {
       "id": "475e903e-e789-4c03-9368-c2cc0db473d7",
-      "name": "Generic Soft Hat",
-      "price": 349,
-      "priceSale": 194,
-      "rate": 1,
+      "name": "Giày Bóng Rổ Nam Nike PG 5 EP",
+      "price": 3239000,
+      "priceSale": 0,
+      "rate": 2,
       "images": [
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480"
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CW3146-400-1_1024x1024@2x.jpg?v=1627435515",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CW3146-400-2_1024x1024@2x.jpg?v=1627435515",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CW3146-400-3_1024x1024@2x.jpg?v=1627435516",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CW3146-400-5_1024x1024@2x.jpg?v=1627435516"
       ],
-      "sizes": [10, 9, 0, 10],
+      "sizes": ["US7", "US7.5", "US8.5", "US9"],
       "desc": [
-        "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-        "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-        "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+        "GIÀY BÓNG RỔ NAM NIKE PG 5 EP",
+        "Paul George có một trận đấu mượt mà, ổn định một cách dễ dàng. Paul mất một khoản thời gian, nhưng anh ấy luôn ở vị trí tốt để thực hiện các đường chuyền bổ sung, cắt qua làn đường hoặc ngăn cản một cầu thủ nhảy lên.",
+        "PG 5 EP là sự kết hợp giữa thiết kế giày cổ thấp nhanh nhẹn mà Paul yêu thích với lớp đệm Nike Air Dot Weld Strobel linh hoạt. Công nghệ Air có được khâu trực tiếp lên phần upper, mang lại phần đệm êm ái, mềm mại ngay dưới chân — hoàn hảo khiến bạn có cảm giác như đang di chuyển trên mây. Phiên bản EP này sử dụng đế ngoài siêu bền, lý tưởng cho các sân bóng ngoài trời."
       ],
-      "color": ["ivory", "black", "sky blue", "maroon"],
+      "color": ["LAPIS/BLUE"],
       "saleNumber": 76,
-      "gender": 2,
+      "gender": 0,
       "categoryID": "97f8c1ac-54c0-4408-9b14-52af5f6a7d42",
       "createdAt": 1632983937524,
       "updatedAt": 1632983937524
     },
     {
       "id": "3091482f-e946-4006-8e5d-46b505c7f37d",
-      "name": "Refined Metal Pants",
-      "price": 137,
-      "priceSale": 487,
+      "name": "Giày Bóng Đá Nam Nike Vapor 14 Academy TF",
+      "price": 2349000,
+      "priceSale": 0,
       "rate": 0,
       "images": [
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480"
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CV0978-600-1_1024x1024@2x.jpg?v=1627435415",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CV0978-600-2_1024x1024@2x.jpg?v=1627435415",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CV0978-600-3_1024x1024@2x.jpg?v=1627435415",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/CV0978-600-4_1024x1024@2x.jpg?v=1627435414"
       ],
-      "sizes": [2, 10, 1, 0],
+      "sizes": ["US9", "US6"],
       "desc": [
-        "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-        "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
-        "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+        "GIÀY BÓNG ĐÁ NAM NIKE VAPOR 14 ACADEMY TF",
+        "Nike Mercurial Vapor 14 Academy TF có thiết kế chắc chắn với lực kéo đa hướng giúp thiết lập cho bạn tốc độ hồi năng lượng siêu nhanh. Mặt trên đúc, thiết kế mang lại độ kiểm soát bóng tốt hơn khi dẫn bóng ở tốc độ cao.",
+        "Dựa trên phân tích nghiên cứu về chuyển động của người chơi, đế ngoài cao su được thiết kế cho lực kéo đa hướng."
       ],
-      "color": ["maroon", "salmon", "blue", "lime"],
+      "color": ["BRIGHT CRI"],
       "saleNumber": 97,
-      "gender": 1,
+      "gender": 0,
       "categoryID": "97f8c1ac-54c0-4408-9b14-52af5f6a7d42",
       "createdAt": 1632983937527,
       "updatedAt": 1632983937527
     },
     {
       "id": "fb4167e8-003c-41da-9e38-5b31729d3116",
-      "name": "Small Soft Chair",
-      "price": 753,
-      "priceSale": 572,
-      "rate": 0,
+      "name": "Giày Thời Trang Unisex Fila Filaray Prism",
+      "price": 1995000,
+      "priceSale": 0,
+      "rate": 4,
       "images": [
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480",
-        "http://placeimg.com/640/480"
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/1RM01148-956-1_1024x1024@2x.jpg?v=1623646300",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/1RM01148-956-2_1024x1024@2x.jpg?v=1623646301",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/1RM01148-956-3_1024x1024@2x.jpg?v=1623646300",
+        "https://cdn.shopify.com/s/files/1/0456/5070/6581/products/1RM01148-956-4_1024x1024@2x.jpg?v=1623646301"
       ],
-      "sizes": [10, 6, 3, 8],
+      "sizes": ["US4.5", "US5.5", "US6.5", "US9"],
       "desc": [
-        "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-        "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-        "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+        "GIÀY THỜI TRANG UNISEX FILA FILARAY PRISM",
+        "Đôi giày với phần đế đồ sộ cân bằng với phần thân giày được làm bằng chất liệu cao cấp tạo nên kiểu dáng sang trọng nổi bật. Logo Fila trên lưỡi gà, đôi giày Fila Hypercube này dễ dàng phối hợp với nhiều loại trang phục của bạn.",
+        "Đế ngoài bằng cao su bền bỉ"
       ],
-      "color": ["turquoise", "mint green", "orange", "green"],
+      "color": ["956"],
       "saleNumber": 185,
-      "gender": 1,
+      "gender": 2,
       "categoryID": "97f8c1ac-54c0-4408-9b14-52af5f6a7d42",
       "createdAt": 1632983937535,
       "updatedAt": 1632983937535
@@ -9518,6 +9518,14 @@
       "updatedAt": 1632983940345
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "id": "kh1",
+      "username": "nhattruongagtm",
+      "password": "25f9e794323b453885f5181f1b624d0b",
+      "createdAt": 1633144776417,
+      "updatedAt": 1633144776417
+    }
+  ],
   "carts": []
 }
